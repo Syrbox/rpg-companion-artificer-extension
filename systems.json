@@ -1,12 +1,12 @@
 {
   "systems": [
     {
-      "id": "5e2024",
-      "name": "D&D 5e 2024",
-      "abbreviation": "5e 2024",
+      "id": "ArtificerDLC",
+      "name": "Artificer DLC",
+      "abbreviation": "ArtificerDLC",
       "version": "0.1.0",
       "min_app_version": "0.5.0",
-      "path": "5e2024"
+      "path": "ArtificerDLC"
     }
   ]
 }
